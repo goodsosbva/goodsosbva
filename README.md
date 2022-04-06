@@ -1,4 +1,4 @@
-### Hi there 👋 제 이름은 권현성입니다.
+### 안녕하세요 👋 개발자를 희망하는 권현성입니다.
 
 <!--
 **goodsosbva/goodsosbva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

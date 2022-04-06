@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 💬 저의 웹 개발의 현황들 입니다.
 
-✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/
-✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/
-✨3. 개발 블로그: https://goodsosbva.tistory.com/
+✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
+✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/ </br>
+✨3. 개발 블로그: https://goodsosbva.tistory.com/ </br>

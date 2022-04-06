@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 제 이름은 권현성입니다.
 
 <!--
 **goodsosbva/goodsosbva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <a href="https://goodsosbva.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blue?style=flat-square&logo=블로그&logoColor=white"/></a>
+  <a href="http://goodsosbva.dothome.co.kr/" target="_blank"><img src="https://img.shields.io/badge/yellow?style=flat-square&logo=자기소개 사이트&logoColor=white"/></a>
+ <a href="http://goodsosbva1.dothome.co.kr/" target="_blank"><img src="https://img.shields.io/badge/red?style=flat-square&logo=포트폴리오 사이트2&logoColor=white"/></a>

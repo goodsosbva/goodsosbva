@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a href="https://goodsosbva.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blue?style=flat-square&logo=블로그&logoColor=white"/></a>
-  <a href="http://goodsosbva.dothome.co.kr/" target="_blank"><img src="https://img.shields.io/badge/yellow?style=flat-square&logo=자기소개 사이트&logoColor=white"/></a>
+![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://goodsosbva.tistory.com/)
+<!--  <a href="https://goodsosbva.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blue?style=flat-square&logo=블로그&logoColor=white"/></a> -->
+<!--   <a href="http://goodsosbva.dothome.co.kr/" target="_blank"><img src="https://img.shields.io/badge/yellow?style=flat-square&logo=자기소개 사이트&logoColor=white"/></a>
  <a href="http://goodsosbva1.dothome.co.kr/" target="_blank"><img src="https://img.shields.io/badge/red?style=flat-square&logo=포트폴리오 사이트2&logoColor=white"/></a>
+ -->

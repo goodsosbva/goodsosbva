@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ✨ 최근에 완료한 프로젝트
 
 
-YogaAI 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
+👣 YogaAI 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93

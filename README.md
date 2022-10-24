@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
 ✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/ </br>
 ✨3. 개발 블로그: https://goodsosbva.tistory.com/ </br>
+
+
+✨ 최근에 완료한 프로젝트
+YogaAI 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93

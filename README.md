@@ -18,14 +18,14 @@ Here are some ideas to get you started:
   📘 기술 스택: HTML, CSS
  
 ✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/ </br>
-  0️⃣ TODO 리스트 사이트: http://goodsosbva1.dothome.co.kr/todolist/
-    📘 기술 스택: HTML, CSS, JavaScript
-    
-  1️⃣ 캠핑 리뷰 사이트: https://kwon-camp.herokuapp.com/
-    📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap 
-    
-  2️⃣ 명언 사이트: https://react-http-cd543.web.app/quotes
-    📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
+    0️⃣ TODO 리스트 사이트: http://goodsosbva1.dothome.co.kr/todolist/
+      📘 기술 스택: HTML, CSS, JavaScript
+
+    1️⃣ 캠핑 리뷰 사이트: https://kwon-camp.herokuapp.com/
+      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap 
+
+    2️⃣ 명언 사이트: https://react-http-cd543.web.app/quotes
+      📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
   
 ✨3. 개발 블로그: https://goodsosbva.tistory.com/ </br>
 

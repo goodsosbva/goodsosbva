@@ -15,12 +15,24 @@ Here are some ideas to get you started:
 💬 저의 개발의 현황들 입니다. 🌙🌱
 
 ✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
+  📘 기술 스택: HTML, CSS
+ 
 ✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/ </br>
+  0️⃣ TODO 리스트 사이트: http://goodsosbva1.dothome.co.kr/todolist/
+    📘 기술 스택: HTML, CSS, JavaScript
+    
+  1️⃣ 캠핑 리뷰 사이트: https://kwon-camp.herokuapp.com/
+    📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap 
+    
+  2️⃣ 명언 사이트: https://react-http-cd543.web.app/quotes
+    📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
+  
 ✨3. 개발 블로그: https://goodsosbva.tistory.com/ </br>
-
 
 
 ✨✨ 최근에 완료한 프로젝트 ✨✨
 
 
 👣 YogaAI 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
+ 🔷 저장소 링크: https://github.com/goodsosbva/YogAI
+ 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap

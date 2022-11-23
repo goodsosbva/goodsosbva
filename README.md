@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       📘 기술 스택: HTML, CSS, JavaScript
 
     1️⃣ 캠핑 리뷰 사이트: https://kwon-camp.herokuapp.com/
-      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap 
+      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, MongoDB, BootStrap 
 
     2️⃣ 명언 사이트: https://react-http-cd543.web.app/quotes
       📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
      🔷 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
      🔷 저장소 링크: https://github.com/goodsosbva/YogAI
-     📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap
+     📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
      
 <hr/>

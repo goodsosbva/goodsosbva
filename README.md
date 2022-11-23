@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 ╰(*°▽°*)╯ 최근에 완료한 프로젝트 ╰(*°▽°*)╯
 
 
-🟦 YogaAI : 요가 자세를 코칭 해주고, 나의 자세를 공유하는 커뮤니티 형식의 웹 사이트.
+🟦 YogaAI : 요가 자세를 코칭 해주고, 나의 자세를 공유하는 커뮤니티 형식의 웹 사이트. (협업 프로젝트)
 
      🔷 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
      🔷 저장소 링크: https://github.com/goodsosbva/YogAI
+     🔷 내가 관여한 부분: 로그인(프톤트단, 백앤드단), 회원가입(프론트단, 백앤드단), 요가 자세 공유 게시판 페이지 부분(프론트단), 헤더(프론트단)
      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
      
 <hr/>

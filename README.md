@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 💬 저의 개발의 현황들 입니다. 🌙🌱
 
 ✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
-
+    
+    🔷 저장소 링크: https://github.com/goodsosbva/IntroduceMySelf
     📘 기술 스택: HTML, CSS
     
  

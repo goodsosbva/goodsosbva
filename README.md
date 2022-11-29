@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
     
     🔷 저장소 링크: https://github.com/goodsosbva/IntroduceMySelf
-    📘 기술 스택: HTML, CSS
+    📘 기술 스택: HTML, CSS, javaScript
     
  
 ✨2. 포트폴리오 묶음 사이트들: http://goodsosbva1.dothome.co.kr/ </br>

@@ -49,3 +49,9 @@ Here are some ideas to get you started:
      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
      
 <hr/>
+
+🟦 꼬맨틀 리팩토링 : HTML, CSS, JS로 되있었던 단어 맞추기 게임 꼬맨틀을 뷰로 리팩토링 + chartjs를 이용한 시각화 이미지 추가
+
+     📕 저장소 링크: https://github.com/goodsosbva/YogAI](https://github.com/goodsosbva/semantle_onBoarding
+     📘 내가 관여한 부분과 기술 스택: HTML, CSS, JS, Vue3, Pinia, Chartjs (전반적인 프론트엔드 부분 담당)
+

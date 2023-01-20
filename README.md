@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       🔷 저장소 링크: https://github.com/goodsosbva/ToDoList/tree/main
       📘 기술 스택: HTML, CSS, JavaScript
 
-    1️⃣ 캠핑 리뷰 사이트: https://kwon-camp.herokuapp.com/
+    1️⃣ 캠핑 리뷰 사이트
       🔷 저장소 링크: https://github.com/goodsosbva/kwonCamp/tree/main
       📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, MongoDB, BootStrap 
 

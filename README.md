@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 
 🟦 YogaAI : 요가 자세를 코칭 해주고, 나의 자세를 공유하는 커뮤니티 형식의 웹 사이트. (협업 프로젝트)
 
-     📗 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
-     📕 저장소 링크: [요가AI 저장소 링크](https://github.com/goodsosbva/YogAI)
-     📙 내가 관여한 부분: 로그인(프톤트단, 백앤드단), 회원가입(프론트단, 백앤드단), 요가 자세 공유 게시판 페이지 부분(프론트단), 헤더(프론트단)
-     📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
+* 📗 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
+* 📕 저장소 링크: [요가AI 저장소 링크](https://github.com/goodsosbva/YogAI)
+* 📙 내가 관여한 부분: 로그인(프톤트단, 백앤드단), 회원가입(프론트단, 백앤드단), 요가 자세 공유 게시판 페이지 부분(프론트단), 헤더(프론트단)
+* 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
      
 <hr/>
 
 🟦 꼬맨틀 리팩토링 : HTML, CSS, JS로 되있었던 단어 맞추기 게임 꼬맨틀을 뷰로 리팩토링 + chartjs를 이용한 시각화 이미지 추가
 
-     📕 저장소 링크: [꼬맨틀 개선 프로젝트 저장소 링크](https://github.com/goodsosbva/semantle_refactoring_project)
-     📘 내가 관여한 부분과 기술 스택: HTML, CSS, JS, Vue3, Pinia, Chartjs (전반적인 프론트엔드 부분 담당)
+* 📕 저장소 링크: [꼬맨틀 개선 프로젝트 저장소 링크](https://github.com/goodsosbva/semantle_refactoring_project)
+* 📘 내가 관여한 부분과 기술 스택: HTML, CSS, JS, Vue3, Pinia, Chartjs (전반적인 프론트엔드 부분 담당)
 

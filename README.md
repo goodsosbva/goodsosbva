@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     📘 기술 스택: HTML, CSS, javaScript
     
  
-✨2. 포트폴리오 묶음 사이트들: [포트폴리오 묶음](http://goodsosbva1.dothome.co.kr/) </br>
+✨2. 포트폴리오 묶음 사이트들 </br>
 
     0️⃣ TODO 리스트 사이트: http://goodsosbva1.dothome.co.kr/todolist/
       🔷 저장소 링크: https://github.com/goodsosbva/ToDoList/tree/main

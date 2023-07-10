@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 * 📕 저장소 링크: [꼬맨틀 개선 프로젝트 저장소 링크](https://github.com/goodsosbva/semantle_refactoring_project)
 * 📘 내가 관여한 부분과 기술 스택: HTML, CSS, JS, Vue3, Pinia, Chartjs (전반적인 프론트엔드 부분 담당)
 
+<hr/>
 
 🟦 리뉴얼 자기소개 사이트: 나를 소개하는 사이트를 리뉴얼
 * 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite

@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-🟦 리뉴얼 자기소개 사이트: 나를 소개하는 사이트를 리뉴얼
+🟦 ദ്ദി*ˊᗜˋ*) 리뉴얼 자기소개 사이트: 나를 소개하는 사이트를 리뉴얼 ദ്ദി*ˊᗜˋ*)
 * 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
 * 📘 주소: http://goodsosbva1.dothome.co.kr/
 

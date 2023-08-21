@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 <hr/>
 
 🟦 ദ്ദി*ˊᗜˋ*) 리뉴얼 자기소개 사이트: 나를 소개하는 사이트를 리뉴얼 ദ്ദി*ˊᗜˋ*)
+* 📗 설명: 저를 소개하고, 제가 무슨일을 할 수 있는지 보여주기 위해 해당 사이트에 제가 만든 포트폴리오를 소개하고 있습니다.
+            현재 프로필에 나와있는 포트폴리오는 예전에 만든거고 최근에 만든건 여기에 올리고 있으니 참고 바랍니다.
 * 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
 * 📘 주소: http://goodsosbva1.dothome.co.kr/
 

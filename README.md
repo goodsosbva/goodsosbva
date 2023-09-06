@@ -66,3 +66,10 @@ Here are some ideas to get you started:
 * 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
 * 📘 주소: http://goodsosbva1.dothome.co.kr/
 
+<hr /> 
+
+🟦 k블로그 사이트
+* 📗 설명: Vue.js3를 이용하여 블로그 사이트를 만들었음. aws 이용해 배포까지 완료.
+* 📕 저장소 링크: [https://github.com/goodsosbva/introduceMySelfSite](https://github.com/goodsosbva/Assignments/tree/main/sideProject/vue-kblog)
+* 📘 주소: [http://goodsosbva1.dothome.co.kr/](http://ec2-13-53-175-66.eu-north-1.compute.amazonaws.com/home)http://ec2-13-53-175-66.eu-north-1.compute.amazonaws.com/home
+

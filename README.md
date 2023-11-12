@@ -66,10 +66,15 @@ Here are some ideas to get you started:
 * 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
 * 📘 주소: http://goodsosbva1.dothome.co.kr/
 
+<hr/>
+
+🟦 굳이 목적성 없이 재미로 만드는 사이트 프로젝트 모음
+* 📗 설명: 그냥 심심해서, 내가 한 번 사용해보지 않은 기술스택을 써보고 싶어서 만든 것들을 기록해두고 싶어서 만들어 놓은 저장소 입니다.
+* 📕 저장소 링크: https://github.com/goodsosbva/Assignments
+
 <hr /> 
 
 🟦 (๑˃́ꇴ˂̀๑) k블로그 사이트 (๑˃́ꇴ˂̀๑)
-* 📗 설명: Vue.js3를 이용하여 블로그 사이트를 만들었음. aws 이용해 배포까지 완료.
+* 📗 설명: Vue.js3를 이용하여 블로그 사이트를 만들었음. aws 이용해 배포까지 완료 - 결제 관련 때문에 EC2를 지운상태 현재 사이트를 들어갈 수 없습니다.
 * 📕 저장소 링크: [https://github.com/goodsosbva/introduceMySelfSite](https://github.com/goodsosbva/Assignments/tree/main/sideProject/vue-kblog)
-* 📘 주소: http://ec2-13-53-175-66.eu-north-1.compute.amazonaws.com/
 

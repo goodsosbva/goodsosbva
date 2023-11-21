@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 
 <hr/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsosbva)](https://solved.ac/goodsosbva/)
+
+<hr/>
+
 💬 저의 개발의 현황들 입니다. 🌙🌱
 
 #### ( ´△｀) 오래전에 구현한 포트폴리오 목록 ( ´△｀)
@@ -73,8 +77,4 @@ Here are some ideas to get you started:
 * 📕 저장소 링크: https://github.com/goodsosbva/Assignments
 
 <hr /> 
-
-🟦 (๑˃́ꇴ˂̀๑) k블로그 사이트 (๑˃́ꇴ˂̀๑)
-* 📗 설명: Vue.js3를 이용하여 블로그 사이트를 만들었음. aws 이용해 배포까지 완료 - 결제 관련 때문에 EC2를 지운상태 현재 사이트를 들어갈 수 없습니다.
-* 📕 저장소 링크: [https://github.com/goodsosbva/introduceMySelfSite](https://github.com/goodsosbva/Assignments/tree/main/sideProject/vue-kblog)
 

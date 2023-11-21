@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 
 <hr/>
 
+#### 🌙 ୧(๑•̀ᗝ•́)૭ 백준 랭크! ୧(๑•̀ᗝ•́)૭
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsosbva)](https://solved.ac/goodsosbva/)
 
-<hr/>
 
-💬 저의 개발의 현황들 입니다. 🌙🌱
+### 💬 저의 개발의 현황들 입니다. 🌙🌱
 
 #### ( ´△｀) 오래전에 구현한 포트폴리오 목록 ( ´△｀)
 
@@ -28,10 +29,6 @@ Here are some ideas to get you started:
     
  
 ✨2. 포트폴리오 묶음 사이트들 </br>
-
-    0️⃣ TODO 리스트 사이트: http://goodsosbva1.dothome.co.kr/todolist/
-      🔷 저장소 링크: https://github.com/goodsosbva/ToDoList/tree/main
-      📘 기술 스택: HTML, CSS, JavaScript
 
     1️⃣ 캠핑 리뷰 사이트
       🔷 저장소 링크: https://github.com/goodsosbva/kwonCamp/tree/main

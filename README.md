@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsosbva)](https://solved.ac/goodsosbva/)
 
 
+#### 🌟 사용한 기술 스택 모음
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
+#### 𓇻 사용한 환경 모음
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
 ### 💬 저의 개발의 현황들 입니다. 🌙🌱
 
 #### ( ´△｀) 오래전에 구현한 포트폴리오 목록 ( ´△｀)

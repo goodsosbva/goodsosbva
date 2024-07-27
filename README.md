@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 
 #### 🌟 사용한 기술 스택 모음
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia"> <img src="https://img.shields.io/badge/Vue%20Query-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Query">
+
 
 #### 𓇻 사용한 환경 모음
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 ### 💬 저의 개발의 현황들 입니다. 🌙🌱
 

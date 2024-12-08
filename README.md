@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 #### 🌟 사용한 기술 스택 모음
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia"> <img src="https://img.shields.io/badge/Vue%20Query-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Query">
+<img src="https://img.shields.io/badge/Vue%20Query-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Query">
 
 
 #### 𓇻 사용한 환경 모음
@@ -34,23 +35,12 @@ Here are some ideas to get you started:
     
     🔷 저장소 링크: https://github.com/goodsosbva/IntroduceMySelf
     📘 기술 스택: HTML, CSS, javaScript
-    
- 
-✨2. 포트폴리오 묶음 사이트들 </br>
-
-    1️⃣ 캠핑 리뷰 사이트
-      🔷 저장소 링크: https://github.com/goodsosbva/kwonCamp/tree/main
-      📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, MongoDB, BootStrap 
-
-    2️⃣ 명언 사이트: https://react-http-cd543.web.app/quotes
-      📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
-      
   
-✨3. 개발 블로그: https://goodsosbva.tistory.com/ </br>
+✨2. 개발 블로그: https://goodsosbva.tistory.com/ </br>
 
 <hr/>
 
-#### ╰(*°▽°*)╯ 최근에 완료한 프로젝트 ╰(*°▽°*)╯
+#### ╰(*°▽°*)╯ 완료한 프로젝트 ╰(*°▽°*)╯
 
 
 🟦 YogaAI : 요가 자세를 코칭 해주고, 나의 자세를 공유하는 커뮤니티 형식의 웹 사이트. (협업 프로젝트)
@@ -60,6 +50,17 @@ Here are some ideas to get you started:
 * 📙 내가 관여한 부분: 로그인(프톤트단, 백앤드단), 회원가입(프론트단, 백앤드단), 요가 자세 공유 게시판 페이지 부분(프론트단), 헤더(프론트단)
 * 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
      
+<hr/>
+
+🟦 캠핑 리뷰 사이트
+* 🔷 저장소 링크: https://github.com/goodsosbva/kwonCamp/tree/main
+* 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, MongoDB, BootStrap
+
+<hr/>
+
+🟦 명언 사이트: https://react-http-cd543.web.app/quotes
+* 📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
+
 <hr/>
 
 🟦 꼬맨틀 리팩토링 : HTML, CSS, JS로 되있었던 단어 맞추기 게임 꼬맨틀을 뷰로 리팩토링 + chartjs를 이용한 시각화 이미지 추가

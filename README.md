@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 #### ( ´△｀) 오래전에 구현한 포트폴리오 목록 ( ´△｀)
 
-✨1. 자기소개 사이트: http://goodsosbva.dothome.co.kr/ </br>
+✨1. 자기소개 사이트: http://goodsosbva1.dothome.co.kr/# </br>
     
-    🔷 저장소 링크: https://github.com/goodsosbva/IntroduceMySelf
+    🔷 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
     📘 기술 스택: HTML, CSS, javaScript
   
 ✨2. 개발 블로그: https://goodsosbva.tistory.com/ </br>

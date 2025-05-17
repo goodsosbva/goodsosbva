@@ -18,70 +18,56 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsosbva)](https://solved.ac/goodsosbva/)
 
 
-#### 🌟 사용한 기술 스택 모음
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia"> <img src="https://img.shields.io/badge/Vue%20Query-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Query">
+**이메일:** [goodsosbva@naver.com](mailto:goodsosbva@naver.com) | **연락처:** +82-10-3223-8549
 
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+---
+
+## 프로페셔널 요약
+클라우드 도메인 중심의 프론트엔드 엔지니어로, **Vue 3** 기반의 CMP(Cloud Management Platform) 프로비저닝 UI 설계·개발을 통해 안정적이고 확장 가능한 사용자 경험을 구현했습니다.  
+모듈 연합(Module Federation) 구성과 **Pinia** / **@tanstack/vue-query**를 활용한 상태 관리, **Vee-Validate** / **Yup** 기반 폼 검증, Docker·Webpack 최적화 등 풀스택 역량을 바탕으로 멀티 클라우드 환경에서도 일관된 퍼포먼스를 제공한 경험이 있습니다.
+
+---
+
+## 기술 스택
+
+- **언어 & 프레임워크**  
+  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python  
+- **상태 관리**  
+  Pinia, @tanstack/vue-query, Vee-Validate, Yup  
+- **UI 라이브러리**  
+  Ant Design Vue, @vueup/vue-quill, Storybook  
+- **번들링 & 빌드**  
+  Webpack (Module Federation), Vue CLI, Babel  
+- **스타일링:**  
+  Sass(SCSS), CSS3, HTML5  
+- **네트워크:**  
+  Axios
+- **차트 & 에디터**  
+  Chart.js, vue-chartjs, CodeMirror  
+- **인프라 & 배포**  
+  Docker, Nginx, CI/CD (GitHub Actions)  
+- **클라우드 & 인프라**  
+  AWS, Kubernetes, Linux  
+- **기타**  
+  Git, GitHub, ESLint, Prettier, Jest, Lodash, Day.js, js-yaml  
+
+---
+
+## 자격증
+- **SQLD** (2025.04)  
+- **리눅스마스터 2급** (2023.06)   
+- **정보처리기사** (2021.08)  
+
+---
+
+## 포트폴리오 & 링크
+- **GitHub:** [github.com/goodsosbva](https://github.com/goodsosbva)  
+- **포트폴리오:** http://goodsosbva1.dothome.co.kr  
+- **개발 블로그:** https://goodsosbva.tistory.com  
+
+---
+
+> “끊임없이 배우고 성장하며, 기술과 협업을 통해 더 나은 가치를 창출하는 개발자가 되겠습니다.”
 
 
-#### 𓇻 사용한 환경 모음
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white">
-
-### 💬 저의 개발의 현황들 입니다. 🌙🌱
-
-#### ( ´△｀) 오래전에 구현한 포트폴리오 목록 ( ´△｀)
-
-✨1. 자기소개 사이트: http://goodsosbva1.dothome.co.kr/# </br>
-    
-    🔷 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
-    📘 기술 스택: HTML, CSS, javaScript
-  
-✨2. 개발 블로그: https://goodsosbva.tistory.com/ </br>
-
-<hr/>
-
-#### ╰(*°▽°*)╯ 완료한 프로젝트 ╰(*°▽°*)╯
-
-
-🟦 YogaAI : 요가 자세를 코칭 해주고, 나의 자세를 공유하는 커뮤니티 형식의 웹 사이트. (협업 프로젝트)
-
-* 📗 노션 링크: https://www.notion.so/_2-9db0bc679f3446e0b6aa8c4a99e6bd93
-* 📕 저장소 링크: [요가AI 저장소 링크](https://github.com/goodsosbva/YogAI)
-* 📙 내가 관여한 부분: 로그인(프톤트단, 백앤드단), 회원가입(프론트단, 백앤드단), 요가 자세 공유 게시판 페이지 부분(프론트단), 헤더(프론트단)
-* 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, BootStrap, MongoDB
-     
-<hr/>
-
-🟦 캠핑 리뷰 사이트
-* 🔷 저장소 링크: https://github.com/goodsosbva/kwonCamp/tree/main
-* 📘 기술 스택: HTML, CSS, JavaScript, React, ExpressJS, MongoDB, BootStrap
-
-<hr/>
-
-🟦 명언 사이트: https://react-http-cd543.web.app/quotes
-* 📘 기술 스택: HTML, CSS, JavaScript, React, BootStrap
-
-<hr/>
-
-🟦 꼬맨틀 리팩토링 : HTML, CSS, JS로 되있었던 단어 맞추기 게임 꼬맨틀을 뷰로 리팩토링 + chartjs를 이용한 시각화 이미지 추가
-
-* 📕 저장소 링크: [꼬맨틀 개선 프로젝트 저장소 링크](https://github.com/goodsosbva/semantle_refactoring_project)
-* 📘 내가 관여한 부분과 기술 스택: HTML, CSS, JS, Vue3, Pinia, Chartjs (전반적인 프론트엔드 부분 담당)
-
-<hr/>
-
-🟦 ദ്ദി*ˊᗜˋ*) 리뉴얼 자기소개 사이트: 나를 소개하는 사이트를 리뉴얼 ദ്ദി*ˊᗜˋ*)
-* 📗 설명: 저를 소개하고, 제가 무슨일을 할 수 있는지 보여주기 위해 해당 사이트에 제가 만든 포트폴리오를 소개하고 있습니다.
-            현재 프로필에 나와있는 포트폴리오는 예전에 만든거고 최근에 만든건 여기에 올리고 있으니 참고 바랍니다.
-* 📕 저장소 링크: https://github.com/goodsosbva/introduceMySelfSite
-* 📘 주소: http://goodsosbva1.dothome.co.kr/
-
-<hr/>
-
-🟦 굳이 목적성 없이 재미로 만드는 사이트 프로젝트 모음
-* 📗 설명: 내가 한 번도 경험해보지 않은 기능들 구현해서 프로젝트화 해서 만들고, 만들어 놓은 것들을 버리기는 아까우니 기록으로 남겨 두고 싶어서 만들어 놓은 저장소 입니다.
-* 📕 저장소 링크: https://github.com/goodsosbva/Assignments
-
-<hr /> 
 

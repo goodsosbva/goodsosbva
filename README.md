@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 프로페셔널 요약
 클라우드 도메인 중심의 프론트엔드 엔지니어로, **Vue 3** 기반의 CMP(Cloud Management Platform) 프로비저닝 UI 설계·개발을 통해 안정적이고 확장 가능한 사용자 경험을 구현했습니다.  
-모듈 연합(Module Federation) 구성과 **Pinia** / **@tanstack/vue-query**를 활용한 상태 관리, **Vee-Validate** / **Yup** 기반 폼 검증, Docker·Webpack 최적화 등 풀스택 역량을 바탕으로 멀티 클라우드 환경에서도 일관된 퍼포먼스를 제공한 경험이 있습니다.
+모듈 연합(Module Federation) 구성과 **Pinia** / **@tanstack/vue-query**를 활용한 상태 관리, **Vee-Validate** / **Yup** 기반 폼 검증등의 역량을 바탕으로 멀티 클라우드 환경에서도 일관된 퍼포먼스를 제공한 경험이 있습니다.
 
 ---
 

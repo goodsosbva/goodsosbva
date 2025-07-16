@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsosbva)](https://solved.ac/goodsosbva/)
 
 
-**이메일:** [goodsosbva@naver.com](mailto:goodsosbva@naver.com) | **연락처:** +82-10-3223-8549
+**이메일:** [goodsosbva@naver.com](mailto:goodsosbva@naver.com)
 
 ---
 

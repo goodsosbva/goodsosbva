@@ -1,4 +1,4 @@
-### 안녕하세요 👋 개발자 권현성입니다.
+<img width="1382" height="64" alt="image" src="https://github.com/user-attachments/assets/4af41eb9-4176-4df2-b5c4-71f28f3ba563" />### 안녕하세요 👋 개발자 권현성입니다.
 
 <!--
 **goodsosbva/goodsosbva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ## 기술 스택
 
 - **언어 & 프레임워크**  
-  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python  
+  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python, Nest.js, Express.js
 - **상태 관리**  
   Pinia, @tanstack/vue-query, Vee-Validate, Yup  
 - **UI 라이브러리**  
   Ant Design Vue, @vueup/vue-quill, Storybook  
 - **번들링 & 빌드**  
-  Webpack (Module Federation), Vue CLI, Babel  
+  Webpack (Module Federation), Vue CLI, Babel, Vite
 - **스타일링:**  
   Sass(SCSS), CSS3, HTML5  
 - **네트워크:**  
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - **클라우드 & 인프라**  
   AWS, Kubernetes, Linux  
 - **기타**  
-  Git, GitHub, ESLint, Prettier, Jest, Lodash, Day.js, js-yaml  
+  Git, GitHub 
 
 ---
 

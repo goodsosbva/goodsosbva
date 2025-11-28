@@ -1,4 +1,3 @@
-<img width="1382" height="64" alt="image" src="https://github.com/user-attachments/assets/4af41eb9-4176-4df2-b5c4-71f28f3ba563" />### 안녕하세요 👋 개발자 권현성입니다.
 
 <!--
 **goodsosbva/goodsosbva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

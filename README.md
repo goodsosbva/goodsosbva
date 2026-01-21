@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 ## 자격증
 - **SQLD** (2025.04)  
 - **리눅스마스터 2급** (2023.06)   
-- **정보처리기사** (2021.08)  
+- **정보처리기사** (2021.08)
+- **CKA(Certified Kubernetes Administrator) (2026.01)**
 
 ---
 

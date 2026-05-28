@@ -37,18 +37,16 @@ Here are some ideas to get you started:
   Ant Design Vue, @vueup/vue-quill, Storybook  
 - **번들링 & 빌드**  
   Webpack (Module Federation), Vue CLI, Babel, Vite
-- **스타일링:**  
+- **스타일링**  
   Sass(SCSS), CSS3, HTML5  
-- **네트워크:**  
-  Axios
+- **형상관리**  
+  Git, GitHub, bitbucket, GitLab
 - **차트 & 에디터**  
   Chart.js, vue-chartjs, CodeMirror  
 - **인프라 & 배포**  
   Docker, Nginx, CI/CD (GitHub Actions)  
 - **클라우드 & 인프라**  
   AWS, Kubernetes, Linux  
-- **기타**  
-  Git, GitHub, bitbucket, GitLab
 
 ---
 

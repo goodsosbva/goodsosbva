@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 기술 스택
 
 - **언어 & 프레임워크**  
-  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python, Nest.js, Express.js
+  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python, Nest.js, Express.js, FastAPI
 - **상태 관리**  
   Pinia, @tanstack/vue-query, Vee-Validate, Yup  
 - **UI 라이브러리**  
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **클라우드 & 인프라**  
   AWS, Kubernetes, Linux  
 - **기타**  
-  Git, GitHub 
+  Git, GitHub, bitbucket, GitLab
 
 ---
 

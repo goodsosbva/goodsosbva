@@ -54,14 +54,15 @@ Here are some ideas to get you started:
 - **SQLD** (2025.04)  
 - **리눅스마스터 2급** (2023.06)   
 - **정보처리기사** (2021.08)
-- **CKA(Certified Kubernetes Administrator) (2026.01)**
+- **CKA(Certified Kubernetes Administrator)** (2026.01)
 
 ---
 
 ## 포트폴리오 & 링크
 - **GitHub:** [github.com/goodsosbva](https://github.com/goodsosbva)  
 - **포트폴리오:** http://goodsosbva1.dothome.co.kr  
-- **개발 블로그:** https://goodsosbva.tistory.com  
+- **개발 블로그:** https://goodsosbva.tistory.com
+- **알고리즘 정리**: https://app.notion.com/p/39d412e5f8a9802fa58ef15d2e9956da
 
 ---
 

@@ -21,10 +21,17 @@ Here are some ideas to get you started:
 
 ---
 
-## 프로페셔널 요약
-클라우드 도메인 중심의 프론트엔드 엔지니어로, **Vue 3** 기반의 CMP(Cloud Management Platform) 프로비저닝 UI 설계·개발을 통해 안정적이고 확장 가능한 사용자 경험을 구현했습니다.  
-모듈 연합(Module Federation) 구성과 **Pinia** / **@tanstack/vue-query**를 활용한 상태 관리, **Vee-Validate** / **Yup** 기반 폼 검증등의 역량을 바탕으로 멀티 클라우드 환경에서도 일관된 퍼포먼스를 제공한 경험이 있습니다.
+## 👨‍💻 About Me
 
+### 프레임워크보다 웹이 동작하는 원리를 파고드는 프론트엔드 엔지니어입니다.
+
+복잡한 상태와 입력 조건, 비동기 데이터 흐름이 얽힌 웹 애플리케이션을 개발해 왔습니다.
+
+Next.js App Router와 React Server Components를 비롯해 React Query, tRPC, Clerk, Drizzle 등을 직접 연결하며 인증, 데이터 요청, 캐싱, 서버·클라이언트 렌더링의 전체 흐름을 구현했습니다. 기능을 완성하는 데 그치지 않고, 데이터가 어디에서 시작해 어떤 과정을 거쳐 화면에 도달하는지 이해하는 것을 중요하게 생각합니다.
+
+관심은 화면 안에만 머물지 않습니다. Docker, Kubernetes, CI/CD를 공부하고 CKA를 취득했으며, 프론트엔드 테스트와 알고리즘, 외부 의존성 없는 라이브러리, 경로 탐색, MCP·AI 프로젝트도 꾸준히 시도하고 기록하고 있습니다.
+
+**필요한 기술을 직접 파고들고, 이해한 내용을 제품과 기록으로 남기는 개발자입니다.**
 ---
 
 ## 기술 스택
@@ -44,7 +51,7 @@ Here are some ideas to get you started:
 - **차트 & 에디터**  
   Chart.js, vue-chartjs, CodeMirror  
 - **인프라 & 배포**  
-  Docker, Nginx, CI/CD (GitHub Actions)  
+  Docker, Nginx, CI/CD (GitHub Actions), Kubernetes  
 - **클라우드 & 인프라**  
   AWS, Kubernetes, Linux  
 

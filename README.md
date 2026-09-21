@@ -34,34 +34,103 @@ React와 Next.js를 활용한 프로젝트를 진행하며 컴포넌트 설계, 
 **필요한 기술을 직접 파고들고, 이해한 내용을 제품과 기록으로 남기는 개발자입니다.**
 ---
 
-## 기술 스택
+## 🛠 Technology Experience
 
-- **언어 & 프레임워크**  
-  JavaScript (ES6+), TypeScript, Vue 3, React.js, Node.js (Express), python, Nest.js, Express.js, FastAPI
-- **상태 관리**  
-  Pinia, @tanstack/vue-query, Vee-Validate, Yup  
-- **UI 라이브러리**  
-  Ant Design Vue, @vueup/vue-quill, Storybook  
-- **번들링 & 빌드**  
-  Webpack (Module Federation), Vue CLI, Babel, Vite
-- **스타일링**  
-  Sass(SCSS), CSS3, HTML5  
-- **형상관리**  
-  Git, GitHub, bitbucket, GitLab
-- **차트 & 에디터**  
-  Chart.js, vue-chartjs, CodeMirror  
-- **인프라 & 배포**  
-  Docker, Nginx, CI/CD (GitHub Actions), Kubernetes  
-- **클라우드 & 인프라**  
-  AWS, Kubernetes, Linux  
+### Languages
 
----
+**주요 사용**
+- JavaScript (ES6+), TypeScript, Python
 
-## 자격증
-- **SQLD** (2025.04)  
-- **리눅스마스터 2급** (2023.06)   
-- **정보처리기사** (2021.08)
-- **CKA(Certified Kubernetes Administrator)** (2026.01)
+### Web & Application
+
+**주요 사용**
+- React, Next.js, Vue 3
+- Node.js, Express.js, NestJS
+- FastAPI
+
+**사용 및 학습 경험**
+- React Native
+- Spring Boot
+- Flask
+- REST API, WebSocket, SSE
+
+### State, Data Fetching & Forms
+
+- Redux
+- Pinia, Recoil, MobX
+- TanStack Query
+- React Hook Form, Vee-Validate
+- Zod, Yup
+- Axios
+
+### UI & Visualization
+
+- Tailwind CSS
+- Styled Components, Emotion
+- Ant Design
+- Radix UI, Bootstrap
+- Storybook
+- Chart.js, D3
+- CodeMirror, Quill
+- OpenLayers
+
+### Architecture & Build
+
+- Vite, Webpack, Babel
+- Module Federation
+- Monorepo
+- Feature-Sliced Design
+- npm, pnpm, yarn, Bun
+
+### Testing & Code Quality
+
+- Jest, Vitest
+- Playwright
+- MSW
+- ESLint, Prettier
+
+### Backend, Authentication & Messaging
+
+- Express.js, NestJS, FastAPI, Spring Boot
+- JWT, OAuth
+- WebSocket, Socket.IO
+
+### Database & ORM
+
+- PostgreSQL, MySQL
+- MongoDB, Mongoose
+- SQLite
+- Prisma, Drizzle ORM
+
+### Infrastructure & Deployment
+
+- Docker
+- Kubernetes, Helm
+- Nginx
+- GitHub Actions, CI/CD
+- Vercel, Render
+- AWS, Linux
+- Git, GitHub, GitLab, Bitbucket
+
+### AI, Machine Learning & Data
+
+- Jupyter Notebook, Google Colab
+- NumPy, Pandas
+- TensorFlow, Keras
+- PyTorch, Transformers
+- OpenAI API, LangChain
+- MCP, Function Calling, RAG
+- BM25, Kiwi 형태소 분석
+- Streamlit
+- 머신러닝 
+- 추천 시스템
+
+### Certifications
+
+- CKA — Certified Kubernetes Administrator (2026.01)
+- SQLD (2025.04)
+- 리눅스마스터 2급 (2023.06)
+- 정보처리기사 (2021.08)
 
 ---
 

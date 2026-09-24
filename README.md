@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 주니어 개발자로 전직!
 - 📘 프론트엔드 개발자로 일하는 중!!
 - 🌱 현재는 웹에 전반전인 공부를 하는 중입니다
 - 👯 그외에 인공지능, 게임 개발등 흥미가 있는 다른 개발 분야도 공부 중이긴 하지만 어렵습니다... 🤔 ＿〆(。。)
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 ### Languages
 
 **주요 사용**
-- JavaScript (ES6+), TypeScript, Python
+- JavaScript (ES6+), TypeScript, Python, JAVA
 
 ### Web & Application
 
@@ -62,21 +61,15 @@ Here are some ideas to get you started:
 ### State, Data Fetching & Forms
 
 - Redux
-- Pinia, Recoil, MobX
+- Recoil, MobX
 - TanStack Query
-- React Hook Form, Vee-Validate
 - Zod, Yup
-- Axios
 
 ### UI & Visualization
 
-- Tailwind CSS
-- Styled Components, Emotion
 - Ant Design
-- Radix UI, Bootstrap
 - Storybook
 - Chart.js, D3
-- CodeMirror, Quill
 - OpenLayers
 
 ### Architecture & Build
@@ -92,20 +85,6 @@ Here are some ideas to get you started:
 - Jest, Vitest
 - Playwright
 - MSW
-- ESLint, Prettier
-
-### Backend, Authentication & Messaging
-
-- Express.js, NestJS, FastAPI, Spring Boot
-- JWT, OAuth
-- WebSocket, Socket.IO
-
-### Database & ORM
-
-- PostgreSQL, MySQL
-- MongoDB, Mongoose
-- SQLite
-- Prisma, Drizzle ORM
 
 ### Infrastructure & Deployment
 
@@ -114,21 +93,14 @@ Here are some ideas to get you started:
 - Nginx
 - GitHub Actions, CI/CD
 - Vercel, Render
-- AWS, Linux
-- Git, GitHub, GitLab, Bitbucket
+- AWS
+- Git
 
 ### AI, Machine Learning & Data
 
-- Jupyter Notebook, Google Colab
-- NumPy, Pandas
-- TensorFlow, Keras
-- PyTorch, Transformers
-- OpenAI API, LangChain
+- LangChain
 - MCP, Function Calling, RAG
-- BM25, Kiwi 형태소 분석
-- Streamlit
-- 머신러닝 
-- 추천 시스템
+- BM25
 
 ### Certifications
 

@@ -52,33 +52,22 @@ Here are some ideas to get you started:
 - Node.js, Express.js, NestJS
 - FastAPI
 
-**사용 및 학습 경험**
-- React Native
-- Spring Boot
-- Flask
-- REST API, WebSocket, SSE
 
-### State, Data Fetching & Forms
+### State
 
-- Redux
-- Recoil, MobX
-- TanStack Query
-- Zod, Yup
+- Redux,Recoil, TanStack Query, Zod, Yup
 
-### UI & Visualization
+### Visualization
 
-- Ant Design
 - Storybook
-- Chart.js, D3
-- OpenLayers
+
 
 ### Architecture & Build
 
 - Vite, Webpack, Babel
-- Module Federation
-- Monorepo
-- Feature-Sliced Design
-- npm, pnpm, yarn, Bun
+- Module Federation, Monorepo
+- FSD
+
 
 ### Testing & Code Quality
 
@@ -88,19 +77,12 @@ Here are some ideas to get you started:
 
 ### Infrastructure & Deployment
 
-- Docker
-- Kubernetes, Helm
-- Nginx
-- GitHub Actions, CI/CD
-- Vercel, Render
-- AWS
-- Git
+- Docker, Kubernetes
 
 ### AI, Machine Learning & Data
 
 - LangChain
 - MCP, Function Calling, RAG
-- BM25
 
 ### Certifications
 
